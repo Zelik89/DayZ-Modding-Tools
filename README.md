@@ -1,2 +1,2 @@
 # DayZ-Modding-Tools
-Blander Addon for DayZ content creators
+Blender Addon for DayZ content creators
