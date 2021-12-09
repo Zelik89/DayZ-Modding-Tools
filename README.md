@@ -19,5 +19,5 @@ Added Reset tools option and fixed a minor bug with setting the work directory
 
 
 0.2.3
-Added First iteration of pistol implimentation, (Colt1911_Base and CZ75_Base)
+Added First iteration of pistol implementation, (Colt1911_Base and CZ75_Base)
 -Will probably be pushing custom pistols next
