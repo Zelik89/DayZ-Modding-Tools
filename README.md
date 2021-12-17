@@ -42,3 +42,14 @@ Added Option to convert paa to tga for import
 Addon Preferences DayZ Tools Directory
 
 -(Default "C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools")
+
+
+
+
+0.2.5
+
+Removed Addon Preferences DayZ Tools Directory
+
+-Removed Due to Crashing in Blender 3.0
+
+-Changed type to Property instead
