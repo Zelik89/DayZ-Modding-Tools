@@ -53,3 +53,8 @@ Removed Addon Preferences DayZ Tools Directory
 -Removed Due to Crashing in Blender 3.0
 
 -Changed type to Property instead
+
+###WARNING### Crashes in Blender 3.0 when creating Geo LOD
+
+I do not recommend using 3.0 until issue is resolved
+
