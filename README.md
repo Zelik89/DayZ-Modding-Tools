@@ -1,5 +1,8 @@
 # DayZ-Modding-Tools
 Blender Addon for DayZ content creators
+Created for Blender 2.92, Could possibly work with newer versions
+### ArmaToolbox is required ###
+
 
 0.2.0
 
