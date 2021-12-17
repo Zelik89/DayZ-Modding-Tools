@@ -27,4 +27,5 @@ Added First iteration of pistol implementation, (Colt1911_Base and CZ75_Base)
 
 0.2.4
 Added Option to convert paa to tga for import
-Addon Preferences for DayZ Tools Directory (uses default install location :: "C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools")
+Addon Preferences for DayZ Tools Directory 
+-(uses default install location :: "C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools")
