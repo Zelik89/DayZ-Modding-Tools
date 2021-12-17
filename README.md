@@ -20,6 +20,7 @@ Added Reset tools option and fixed a minor bug with setting the work directory
 
 0.2.3
 Added First iteration of pistol implementation, (Colt1911_Base and CZ75_Base)
+
 -Will probably be pushing custom pistols next
 
 
@@ -27,5 +28,7 @@ Added First iteration of pistol implementation, (Colt1911_Base and CZ75_Base)
 
 0.2.4
 Added Option to convert paa to tga for import
-Addon Preferences
+
+Addon Preferences DayZ Tools Directory
+
 -(Default "C:\Program Files (x86)\Steam\steamapps\common\DayZ Tools")
